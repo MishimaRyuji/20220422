@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## 私について
 
-You can use the [editor on GitHub](https://github.com/MishimaRyuji/20220422/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ソクラテス玉夫と申します。
+専門学校でプログラミングを学んでいます。
+大阪府出身で趣味は映画鑑賞と音楽鑑賞です。
+最近、映画レビューを始めました！詳しくは下記のURLをご参照ください。
+https://filmarks.com/users/Ryuji_missydesu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
