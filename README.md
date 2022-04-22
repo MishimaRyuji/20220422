@@ -5,6 +5,7 @@
 
 # 趣味
 **映画鑑賞と音楽鑑賞です。**
+
 **最近、映画レビューを始めました！詳しくはこちらをご覧ください⇒**
 **[filmarks](https://filmarks.com/users/Ryuji_missydesu)**
 
