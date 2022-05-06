@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: ソクラテス玉夫のホームページ
 description: GitHub Pagesで作りました
 logo: /Socrates.png
+
+plugins:
+  - jekyll-sitemap
