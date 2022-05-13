@@ -5,3 +5,6 @@ logo: /Socrates.png
 
 plugins:
   - jekyll-sitemap
+
+google_analytics:
+ UA-228687653-1
